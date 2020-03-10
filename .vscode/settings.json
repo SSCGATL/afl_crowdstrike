@@ -1,0 +1,4 @@
+{
+    "puppet.editorService.formatOnType.enable": true,
+    "editor.formatOnType": true
+}
